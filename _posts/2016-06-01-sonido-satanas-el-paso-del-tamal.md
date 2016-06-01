@@ -12,57 +12,57 @@ publisher:
 keywords:
   - sonido
   - duration
+  - satanas
   - oficial
   - views
-  - master
-  - satanas
-  - plus
-  - pico
   - satan
   - video
+  - pico
+  - francisco
+  - gallo
 description: 'la cumbia del tamal,el paso del tamal,sonido satanas,cumbia sonidera,cumbia editada,cumbia colombiana,callejera,kumbiamberos,kumbieros,bailando cumbia'
 inLanguage: en
 app_links:
-  - url: 'vnd.youtube://www.youtube.com/watch?v=Z7sVEopIClQ&feature=applinks'
+  - url: 'vnd.youtube://www.youtube.com/watch?v=Z7sVEopIClQ&list=LLsYXpgSwUV3N8XVfVgPV0rw&index=7&feature=applinks'
     type: ios
     namespace: ai
     app_store_id: '544007664'
     app_name: YouTube
-  - url: 'vnd.youtube://www.youtube.com/watch?v=Z7sVEopIClQ&feature=applinks'
+  - url: 'vnd.youtube://www.youtube.com/watch?v=Z7sVEopIClQ&list=LLsYXpgSwUV3N8XVfVgPV0rw&index=7&feature=applinks'
     type: android
     namespace: ai
     app_name: YouTube
     package: com.google.android.youtube
-  - url: 'https://www.youtube.com/watch?v=Z7sVEopIClQ&feature=applinks'
+  - url: 'https://www.youtube.com/watch?v=Z7sVEopIClQ&list=LLsYXpgSwUV3N8XVfVgPV0rw&index=7&feature=applinks'
     type: web
     namespace: ai
-  - url: 'vnd.youtube://www.youtube.com/watch?v=Z7sVEopIClQ&feature=applinks'
+  - url: 'vnd.youtube://www.youtube.com/watch?v=Z7sVEopIClQ&list=LLsYXpgSwUV3N8XVfVgPV0rw&index=7&feature=applinks'
     namespace: twitter
     type: ipad
     name: YouTube
     id: '544007664'
-  - url: 'vnd.youtube://www.youtube.com/watch?v=Z7sVEopIClQ&feature=applinks'
+  - url: 'vnd.youtube://www.youtube.com/watch?v=Z7sVEopIClQ&list=LLsYXpgSwUV3N8XVfVgPV0rw&index=7&feature=applinks'
     namespace: twitter
     type: iphone
     name: YouTube
     id: '544007664'
-  - url: 'https://www.youtube.com/watch?v=Z7sVEopIClQ'
+  - url: 'https://www.youtube.com/watch?v=Z7sVEopIClQ&list=LLsYXpgSwUV3N8XVfVgPV0rw&index=7'
     namespace: twitter
     type: googleplay
     name: YouTube
     id: com.google.android.youtube
-  - path: http/www.youtube.com/watch?v=Z7sVEopIClQ
+  - path: 'http/www.youtube.com/watch?v=Z7sVEopIClQ&list=LLsYXpgSwUV3N8XVfVgPV0rw&index=7'
     package: com.google.android.youtube
     namespace: google
     type: android
-  - path: vnd.youtube/www.youtube.com/watch?v=Z7sVEopIClQ
+  - path: 'vnd.youtube/www.youtube.com/watch?v=Z7sVEopIClQ&list=LLsYXpgSwUV3N8XVfVgPV0rw&index=7'
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://www.youtube.com/watch?v=Z7sVEopIClQ'
+isBasedOnUrl: 'https://www.youtube.com/watch?v=Z7sVEopIClQ&index=7&list=LLsYXpgSwUV3N8XVfVgPV0rw'
 title: Sonido Satanas - el paso del tamal
-datePublished: '2016-06-01T02:39:26.714Z'
-dateModified: '2016-06-01T02:39:18.463Z'
+datePublished: '2016-06-01T02:44:08.643Z'
+dateModified: '2016-06-01T02:42:30.920Z'
 starred: false
 sourcePath: _posts/2016-06-01-sonido-satanas-el-paso-del-tamal.md
 inFeed: true
