@@ -61,8 +61,8 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://www.youtube.com/watch?v=EGUcS5Auiac&index=3&list=LLsYXpgSwUV3N8XVfVgPV0rw'
 title: Adam Green - Buddy Bradley
-datePublished: '2016-06-01T02:38:33.928Z'
-dateModified: '2016-06-01T02:38:22.738Z'
+datePublished: '2016-06-01T02:39:26.210Z'
+dateModified: '2016-06-01T02:39:07.908Z'
 starred: false
 sourcePath: _posts/2016-06-01-adam-green-buddy-bradley.md
 inFeed: true
