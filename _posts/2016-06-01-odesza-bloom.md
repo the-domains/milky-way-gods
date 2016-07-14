@@ -20,7 +20,10 @@ keywords:
   - album
   - preziotte
   - soundcloud
-description: "\"Bloom\" from the full-length album 'In Return', out September 9th, 2014 on Counter Records (an imprint of Ninja Tune). Download our official app here: http://ODESZA.co/app Huge thanks to Mat Preziotte for the amazing visualizer."
+description: >-
+  "Bloom" from the full-length album 'In Return', out September 9th, 2014 on
+  Counter Records (an imprint of Ninja Tune). Download our official app here:
+  http://ODESZA.co/app Huge thanks to Mat Preziotte for the amazing visualizer.
 inLanguage: en
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=wuC1fHTnuJs&feature=applinks'
@@ -61,10 +64,10 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://www.youtube.com/watch?v=wuC1fHTnuJs'
 title: ODESZA - Bloom
-datePublished: '2016-06-01T03:22:43.204Z'
-dateModified: '2016-06-01T03:22:12.495Z'
-starred: false
+datePublished: '2016-07-14T04:12:19.298Z'
+dateModified: '2016-07-14T04:12:18.187Z'
 sourcePath: _posts/2016-06-01-odesza-bloom.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
