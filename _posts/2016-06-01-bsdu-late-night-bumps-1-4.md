@@ -20,7 +20,11 @@ keywords:
   - bsdu
   - cassette
   - shamana
-description: "due to some copyright claims regarding samples the video has been blocked in germany, isn't available on some devices etc however it'll stay up [late night bumps 1] 1. intro 0:00 2. reefers 0:45 3. moment of clarity 2:00 4. late night bump 5:09 5. crush on u 6:55 6."
+description: >-
+  due to some copyright claims regarding samples the video has been blocked in
+  germany, isn't available on some devices etc however it'll stay up [late night
+  bumps 1] 1. intro 0:00 2. reefers 0:45 3. moment of clarity 2:00 4. late night
+  bump 5:09 5. crush on u 6:55 6.
 inLanguage: en
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=OJVoApMH-y4&feature=applinks'
@@ -61,10 +65,10 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://www.youtube.com/watch?v=OJVoApMH-y4'
 title: 'bsd.u - [late night bumps 1-4]'
-datePublished: '2016-06-01T03:32:05.451Z'
-dateModified: '2016-06-01T03:31:23.751Z'
-starred: false
+datePublished: '2016-07-14T04:12:12.433Z'
+dateModified: '2016-07-14T04:12:10.382Z'
 sourcePath: _posts/2016-06-01-bsdu-late-night-bumps-1-4.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
