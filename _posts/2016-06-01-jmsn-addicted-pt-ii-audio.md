@@ -20,51 +20,63 @@ keywords:
   - album
   - jms
   - '549'
-description: 'JMSN Tour Dates at http://iamjmsn.com/tour/ Buy JMSN - JMSN (Blue Album) Physical [CD, Vinyl, Digital]: http://shop.iamjmsn.com/ iTunes - https://itunes.apple.com/us/album/jmsn/id945749626'
+description: >-
+  JMSN Tour Dates at http://iamjmsn.com/tour/ Buy JMSN - JMSN (Blue Album)
+  Physical [CD, Vinyl, Digital]: http://shop.iamjmsn.com/ iTunes -
+  https://itunes.apple.com/us/album/jmsn/id945749626
 inLanguage: en
 app_links:
-  - url: 'vnd.youtube://www.youtube.com/watch?v=q0q3OCn3WXc&list=LLsYXpgSwUV3N8XVfVgPV0rw&index=52&feature=applinks'
+  - url: >-
+      vnd.youtube://www.youtube.com/watch?v=q0q3OCn3WXc&list=LLsYXpgSwUV3N8XVfVgPV0rw&index=52&feature=applinks
     type: ios
     namespace: ai
     app_store_id: '544007664'
     app_name: YouTube
-  - url: 'vnd.youtube://www.youtube.com/watch?v=q0q3OCn3WXc&list=LLsYXpgSwUV3N8XVfVgPV0rw&index=52&feature=applinks'
+  - url: >-
+      vnd.youtube://www.youtube.com/watch?v=q0q3OCn3WXc&list=LLsYXpgSwUV3N8XVfVgPV0rw&index=52&feature=applinks
     type: android
     namespace: ai
     app_name: YouTube
     package: com.google.android.youtube
-  - url: 'https://www.youtube.com/watch?v=q0q3OCn3WXc&list=LLsYXpgSwUV3N8XVfVgPV0rw&index=52&feature=applinks'
+  - url: >-
+      https://www.youtube.com/watch?v=q0q3OCn3WXc&list=LLsYXpgSwUV3N8XVfVgPV0rw&index=52&feature=applinks
     type: web
     namespace: ai
-  - url: 'vnd.youtube://www.youtube.com/watch?v=q0q3OCn3WXc&list=LLsYXpgSwUV3N8XVfVgPV0rw&index=52&feature=applinks'
+  - url: >-
+      vnd.youtube://www.youtube.com/watch?v=q0q3OCn3WXc&list=LLsYXpgSwUV3N8XVfVgPV0rw&index=52&feature=applinks
     namespace: twitter
     type: ipad
     name: YouTube
     id: '544007664'
-  - url: 'vnd.youtube://www.youtube.com/watch?v=q0q3OCn3WXc&list=LLsYXpgSwUV3N8XVfVgPV0rw&index=52&feature=applinks'
+  - url: >-
+      vnd.youtube://www.youtube.com/watch?v=q0q3OCn3WXc&list=LLsYXpgSwUV3N8XVfVgPV0rw&index=52&feature=applinks
     namespace: twitter
     type: iphone
     name: YouTube
     id: '544007664'
-  - url: 'https://www.youtube.com/watch?v=q0q3OCn3WXc&list=LLsYXpgSwUV3N8XVfVgPV0rw&index=52'
+  - url: >-
+      https://www.youtube.com/watch?v=q0q3OCn3WXc&list=LLsYXpgSwUV3N8XVfVgPV0rw&index=52
     namespace: twitter
     type: googleplay
     name: YouTube
     id: com.google.android.youtube
-  - path: 'http/www.youtube.com/watch?v=q0q3OCn3WXc&list=LLsYXpgSwUV3N8XVfVgPV0rw&index=52'
+  - path: >-
+      http/www.youtube.com/watch?v=q0q3OCn3WXc&list=LLsYXpgSwUV3N8XVfVgPV0rw&index=52
     package: com.google.android.youtube
     namespace: google
     type: android
-  - path: 'vnd.youtube/www.youtube.com/watch?v=q0q3OCn3WXc&list=LLsYXpgSwUV3N8XVfVgPV0rw&index=52'
+  - path: >-
+      vnd.youtube/www.youtube.com/watch?v=q0q3OCn3WXc&list=LLsYXpgSwUV3N8XVfVgPV0rw&index=52
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://www.youtube.com/watch?v=q0q3OCn3WXc&list=LLsYXpgSwUV3N8XVfVgPV0rw&index=52'
+isBasedOnUrl: >-
+  https://www.youtube.com/watch?v=q0q3OCn3WXc&list=LLsYXpgSwUV3N8XVfVgPV0rw&index=52
 title: JMSN - Addicted Pt. II (Audio)
-datePublished: '2016-06-01T03:21:49.521Z'
-dateModified: '2016-06-01T03:21:27.763Z'
-starred: false
+datePublished: '2016-07-14T04:12:16.052Z'
+dateModified: '2016-07-14T04:12:15.441Z'
 sourcePath: _posts/2016-06-01-jmsn-addicted-pt-ii-audio.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
