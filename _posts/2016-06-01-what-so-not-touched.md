@@ -10,14 +10,19 @@ publisher:
   favicon: 'https://www.youtube.com/favicon.ico'
   domain: www.youtube.com
 keywords: []
-description: 'SOUNDISSTYLE - You are what you listen to. " Facebook: https://www.facebook.com/soundisstyle " Twitter: https://twitter.com/soundisstyle " SoundCloud: https://soundcloud.com/soundisstyle " Tumblr: http://soundisstyle.tumblr.com ADM - Australian dance music.'
+description: >-
+  SOUNDISSTYLE - You are what you listen to. " Facebook:
+  https://www.facebook.com/soundisstyle " Twitter:
+  https://twitter.com/soundisstyle " SoundCloud:
+  https://soundcloud.com/soundisstyle " Tumblr: http://soundisstyle.tumblr.com
+  ADM - Australian dance music.
 app_links: []
 isBasedOnUrl: 'https://www.youtube.com/watch?v=ZLrLmLaoQrs'
 title: What So Not - Touched
-datePublished: '2016-06-01T03:21:47.797Z'
-dateModified: '2016-06-01T03:20:52.677Z'
-starred: false
+datePublished: '2016-07-14T04:12:21.723Z'
+dateModified: '2016-07-14T04:12:20.973Z'
 sourcePath: _posts/2016-06-01-what-so-not-touched.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
