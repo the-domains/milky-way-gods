@@ -1,4 +1,3 @@
-layout_spectrum: 0.7455475758761168
 typography_spectrum: 0.2008414736483246
 color:
   brandStrength: 0.28147269366309047
@@ -11,4 +10,6 @@ color:
     - '#BEEB9F'
     - '#79BD8F'
     - '#00A388'
+layout_spectrum: 0.7455475758761168
 name: Milky Way Gods
+title: Milky Way Gods
